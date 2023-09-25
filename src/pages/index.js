@@ -8,7 +8,10 @@ export default function Home() {
     <main>
       <h1 className="text-md">Days since last JS framework</h1>
       <h1 className="text-2xl">0</h1>
-      <a href="https://github.com/storialp/days-since-js-framework-copy">
+      <a
+        href="https://github.com/storialp/days-since-js-framework-copy"
+        className="underline"
+      >
         See code here
       </a>
     </main>
